@@ -1,6 +1,5 @@
 # cemre-site
-index.html
-<!DOCTYPE html>
+
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
@@ -55,15 +54,15 @@ index.html
 
   <div class="card">
     <h1>Cemre 🌸</h1>
-    <div class="heart">❤️</div>
+    <div class="heart">💛</div>
 
     <p>
-      her şey senin için değer güzelim <br>
-      Gülüşün enerjin ve varlığın her şeyi güzelleştiriyor
+      her şey senin için güzelim <br>
+      tek sevdiğim sensin gözümde tek parlayansın
     </p>
 
     <p>
-      İyi ki varsın
+      gözümde en büyük yıldız sensin
     </p>
 
     <div class="footer">
